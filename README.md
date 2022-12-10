@@ -1,2 +1,1 @@
-# Story2
-Branching and Merging
+This is a read me file.
